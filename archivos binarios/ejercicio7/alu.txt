@@ -1,0 +1,29 @@
+123456789
+Garcia Lopez
+Juan
+7
+
+987654321
+Perez Martinez
+María
+8
+
+456789123
+Rodriguez Sanchez
+Ana
+7
+
+142674893
+Cardenas Orozco
+Pedro
+4
+
+452179354
+Cadavid Torres
+Pablo
+9
+
+789512387
+Velasquez Perez
+David
+3
